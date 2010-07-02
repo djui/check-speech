@@ -1,3 +1,5 @@
+import re
+
 def policy_first_person():
   """
   Don't use the first person. Use third person.

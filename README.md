@@ -9,30 +9,36 @@ might be wrong. Not every hit is really bad. There could be a lot of false
 positives and vice versa.
 
 The results are better, if you do not break your text lines in your document
-by yourself, but rather use something like smart or soft linebreaks. Also try 
+by yourself, but rather use something like smart or soft line breaks. Also try 
 to apply it on pure text, not marked up (LaTeX).
 
 Credits
 =======
-Thanks to http://www.cs.purdue.edu/homes/dec/essay.dissertation.html
+Thanks to [http://www.cs.purdue.edu/homes/dec/essay.dissertation.html]
+(http://www.cs.purdue.edu/homes/dec/essay.dissertation.html)
 
-Thanks to http://elearning.homestead.com/ACADEMIC_WRITING_GUIDE.htm
+Thanks to [http://elearning.homestead.com/ACADEMIC_WRITING_GUIDE.htm]
+(http://elearning.homestead.com/ACADEMIC_WRITING_GUIDE.htm)
 
-Thanks to http://owl.english.purdue.edu/handouts/general/gl_concise.html
+Thanks to [http://owl.english.purdue.edu/handouts/general/gl_concise.html]
+(http://owl.english.purdue.edu/handouts/general/gl_concise.html)
 
-Thanks to http://leo.stcloudstate.edu/grammar/grammarcondensed.html
+Thanks to [http://leo.stcloudstate.edu/grammar/grammarcondensed.html]
+(http://leo.stcloudstate.edu/grammar/grammarcondensed.html)
 
-Thanks to http://www.cs.purdue.edu/homes/dec/essay.dissertation.html
-
+Thanks to [http://www.cs.purdue.edu/homes/dec/essay.dissertation.html]
+(http://www.cs.purdue.edu/homes/dec/essay.dissertation.html)
 
 Resources
 =========
 
 Announcements and Statements
 ----------------------------
-http://www.unc.edu/depts/wcweb/handouts/thesis.html
+[http://www.unc.edu/depts/wcweb/handouts/thesis.html]
+(http://www.unc.edu/depts/wcweb/handouts/thesis.html)
 
-http://leo.stcloudstate.edu/acadwrite/thesistatement.html
+[http://leo.stcloudstate.edu/acadwrite/thesistatement.html]
+(http://leo.stcloudstate.edu/acadwrite/thesistatement.html)
 
 
 Checklists

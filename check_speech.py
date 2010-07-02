@@ -58,7 +58,7 @@ if __name__ == "__main__":
     if callable(Fun) and Def.startswith("policy_"):
       for RegExp in Fun():
         for Match in RegExp.finditer(FileContent):
-          Line = FileContent.count("\n", 0, Match.start(0))
+          Line = FileContent.count("\n", 0, Match.start(0)) + 1
           Policy = Def.replace("policy_", "").replace("_", " ").capitalize()
           Pattern = RegExp.pattern
           Text = Match.group(0).replace(os.linesep, " ")

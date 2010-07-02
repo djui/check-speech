@@ -2,7 +2,8 @@
 
 """
 This script checks your wording and speech in a scientific paper. 
-It shows you some hints what might be wrong. Not every hit is really bad. There could be a lot of false positives and vice versa.
+It shows you some hints what might be wrong. Not every hit is really bad. 
+There could be a lot of false positives and vice versa.
 
 This should be common rules for writing scientific papers, but when english 
 is not your mother tongue or native language, some phrases can just hop 

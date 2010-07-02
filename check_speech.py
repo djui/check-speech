@@ -1,16 +1,15 @@
 #!/usr/bin/env python
 
 """
+This script checks your wording and speech in a scientific paper. 
+It shows you some hints what might be wrong. Not every hit is really bad. There could be a lot of false positives and vice versa.
+
 This should be common rules for writing scientific papers, but when english 
 is not your mother tongue or native language, some phrases can just hop 
 through. Also when you are tired you tend to write sloppy.
 
-This script checks your wording and speech and shows you some hints what 
-might be wrong. Not every hit is really bad. There could be a lot of false
-positives and vice versa.
-
 The results are better, if you do not break your text lines in your document
-by yourself, but rather use something like smart or soft linebreaks. Also try 
+by yourself, but rather use something like smart or soft line breaks. Also try 
 to apply it on pure text, not marked up (LaTeX).
 """
 

@@ -1,54 +1,48 @@
-Check Speech
-============
+= Check Speech
+
+This script checks your wording and speech in a scientific paper. 
+It shows you some hints what might be wrong. Not every hit is really bad. There could be a lot of false positives and vice versa.
+
 This should be common rules for writing scientific papers, but when english 
 is not your mother tongue or native language, some phrases can just hop 
 through. Also when you are tired you tend to write sloppy.
-
-This script checks your wording and speech and shows you some hints what 
-might be wrong. Not every hit is really bad. There could be a lot of false
-positives and vice versa.
 
 The results are better, if you do not break your text lines in your document
 by yourself, but rather use something like smart or soft line breaks. Also try 
 to apply it on pure text, not marked up (LaTeX).
 
-Credits
-=======
-Thanks to [http://www.cs.purdue.edu/homes/dec/essay.dissertation.html]
-(http://www.cs.purdue.edu/homes/dec/essay.dissertation.html)
+== Credits
 
-Thanks to [http://elearning.homestead.com/ACADEMIC_WRITING_GUIDE.htm]
-(http://elearning.homestead.com/ACADEMIC_WRITING_GUIDE.htm)
+Thanks to <http://www.cs.purdue.edu/homes/dec/essay.dissertation.html>
 
-Thanks to [http://owl.english.purdue.edu/handouts/general/gl_concise.html]
-(http://owl.english.purdue.edu/handouts/general/gl_concise.html)
+Thanks to <http://elearning.homestead.com/ACADEMIC_WRITING_GUIDE.htm>
 
-Thanks to [http://leo.stcloudstate.edu/grammar/grammarcondensed.html]
-(http://leo.stcloudstate.edu/grammar/grammarcondensed.html)
+Thanks to <http://owl.english.purdue.edu/handouts/general/gl_concise.html>
 
-Thanks to [http://www.cs.purdue.edu/homes/dec/essay.dissertation.html]
-(http://www.cs.purdue.edu/homes/dec/essay.dissertation.html)
+Thanks to <http://leo.stcloudstate.edu/grammar/grammarcondensed.html>
 
-Resources
-=========
-
-Announcements and Statements
-----------------------------
-[http://www.unc.edu/depts/wcweb/handouts/thesis.html]
-(http://www.unc.edu/depts/wcweb/handouts/thesis.html)
-
-[http://leo.stcloudstate.edu/acadwrite/thesistatement.html]
-(http://leo.stcloudstate.edu/acadwrite/thesistatement.html)
+Thanks to <http://www.cs.purdue.edu/homes/dec/essay.dissertation.html>
 
 
-Checklists
-==========
+== Resources
+
+=== Announcements and Statements
+
+<http://www.unc.edu/depts/wcweb/handouts/thesis.html>
+
+<http://leo.stcloudstate.edu/acadwrite/thesistatement.html>
+
+
+=== Checklist
+
 1. Is my thesis statement concise and clear?
 2. Did I follow my outline? Did I miss anything?
 3. Are my arguments presented in a logical sequence?
 4. Are all sources properly cited to ensure that I am not plagiarizing?
 5. Have I proved my thesis with strong supporting arguments?
 6. Have I made my intentions and points clear in the essay?
+
+=== Another checklist
 
 1. Did I begin each paragraph with a proper topic sentence?
 2. Have I supported my arguments with documented proof or examples?
